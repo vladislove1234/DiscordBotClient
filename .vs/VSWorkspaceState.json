@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DiscordBot",
+    "\\DiscordBot\\Commands",
+    "\\DiscordBot\\Dbot",
+    "\\DiscordBot\\Handlers",
+    "\\DiscordBot\\Models",
+    "\\DiscordBot\\Services"
+  ],
+  "SelectedNode": "\\DiscordBot\\Services\\AudioService.cs",
+  "PreviewInSolutionExplorer": false
+}

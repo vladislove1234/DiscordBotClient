@@ -1,0 +1,96 @@
+2021-07-15 19:01:57.659  INFO 13812 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.3.2.1
+	Build:          1132
+	Build time:     28.10.2020 21:44:36 UTC
+	Branch          master
+	Commit:         833f72e
+	Commit time:    28.10.2020 21:39:31 UTC
+	JVM:            11.0.11
+	Lavaplayer      1.3.53
+
+2021-07-15 19:01:57.876  INFO 13812 --- [main] lavalink.server.Launcher                 : Starting Launcher on DESKTOP-T50E2P6 with PID 13812 (E:\DiscordBot\DiscordBot – 5.1.9\Lavalink\Lavalink.jar started by vladt in E:\DiscordBot\DiscordBot – 5.1.9\Lavalink)
+2021-07-15 19:01:57.877  INFO 13812 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2021-07-15 19:01:57.950  WARN 13812 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2021-07-15 19:02:00.706  WARN 13812 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-07-15 19:02:00.753  INFO 13812 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-07-15 19:02:00.754  INFO 13812 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2782 ms
+2021-07-15 19:02:01.606  WARN 13812 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2021-07-15 19:02:02.488  INFO 13812 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2021-07-15 19:02:02.919  INFO 13812 --- [main] lavalink.server.config.KoeConfiguration  : OS: Windows 10, Arch: amd64
+2021-07-15 19:02:02.920  WARN 13812 --- [main] lavalink.server.config.KoeConfiguration  : This system and architecture appears to not support native audio sending! GC pauses may cause your bot to stutter during playback.
+2021-07-15 19:02:03.299  INFO 13812 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-07-15 19:02:03.852  INFO 13812 --- [main] org.xnio                                 : XNIO version 3.3.8.Final
+2021-07-15 19:02:03.881  INFO 13812 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.3.8.Final
+2021-07-15 19:02:03.978  INFO 13812 --- [main] o.s.b.w.e.u.UndertowServletWebServer     : Undertow started on port(s) 2333 (http) with context path ''
+2021-07-15 19:02:03.986  INFO 13812 --- [main] lavalink.server.Launcher                 : Started Launcher in 7.916 seconds (JVM running for 10.115)
+2021-07-15 19:02:03.990  INFO 13812 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/Frederikam/Lavalink/issues/295
+2021-07-15 19:02:42.681  INFO 13812 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-07-15 19:02:42.683  INFO 13812 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-07-15 19:02:42.695  INFO 13812 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2021-07-15 19:02:42.792  INFO 13812 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Добро пожаловать на сервер Шизофрения!"
+2021-07-15 19:02:44.408  INFO 13812 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58874
+2021-07-15 19:02:44.626  INFO 13812 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58874
+2021-07-15 19:02:44.710  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Добро пожаловать на сервер Шизофрения!
+2021-07-15 19:02:55.054  INFO 13812 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","sessionId":"1187a417742f6e1ad58791ad3a12e0ff","event":{"token":"b4d20ff751d562e6","endpoint":"russia1874.discord.media:443"},"op":"voiceUpdate"}
+2021-07-15 19:03:06.386  INFO 13812 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:music"
+2021-07-15 19:03:07.746  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: music
+2021-07-15 19:03:34.860  INFO 13812 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"endTime":14347000,"track":"QAAAxgIAYU1lZ2EgSGl0cyAyMDIxIO2gvO28sSBUaGUgQmVzdCBPZiBWb2NhbCBEZWVwIEhvdXNlIE11c2ljIE1peCAyMDIxIO2gvO28sSBTdW1tZXIgTXVzaWMgTWl4IDIwMjEgIzkAC0hlbGlvcyBEZWVwAAAAAADa6vgAC29yMDQ3UDJOT2pjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9b3IwNDdQMk5PamMAB3lvdXR1YmUAAAAAAAAAAA==","noReplace":false,"startTime":0,"guildId":"757600728801083423","op":"play"}
+2021-07-15 19:03:53.452  INFO 13812 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","op":"stop"}
+2021-07-15 19:03:57.308  INFO 13812 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","op":"stop"}
+2021-07-15 19:03:57.310  INFO 13812 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","op":"destroy"}
+2021-07-15 19:04:05.396  INFO 13812 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58874 -- CloseStatus[code=1006, reason=]
+2021-07-15 19:04:05.397  INFO 13812 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-07-15 19:07:34.982  INFO 13812 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Добро пожаловать на сервер Шизофрения!"
+2021-07-15 19:07:36.053  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Добро пожаловать на сервер Шизофрения!
+2021-07-15 19:07:36.688  INFO 13812 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:53675
+2021-07-15 19:07:36.693  INFO 13812 --- [XNIO-1 task-8] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:53675
+2021-07-15 19:07:45.307  INFO 13812 --- [XNIO-1 I/O-11] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","sessionId":"7521bd39f0e987dcb24fb88610abe7d8","event":{"token":"f4ae3e675810257a","endpoint":"russia1874.discord.media:443"},"op":"voiceUpdate"}
+2021-07-15 19:07:50.235  INFO 13812 --- [XNIO-1 task-9] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:gachi remix"
+2021-07-15 19:07:51.028  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: gachi remix
+2021-07-15 19:08:17.310  INFO 13812 --- [XNIO-1 I/O-11] lavalink.server.io.SocketServer          : {"endTime":140000,"track":"QAAAqQIASU1PUkdFTlNIVEVSTiAmINCi0LjQvNCw0YLQuCAtIEVsIFByb2JsZW1hIChSaWdodCBWZXJzaW9uKSDimYIgR2FjaGkgUmVtaXgABlJhdCBUVgAAAAAAAiLgAAtaaDlkQnFJaHQtZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVpoOWRCcUlodC1nAAd5b3V0dWJlAAAAAAAAAAA=","noReplace":false,"startTime":0,"guildId":"757600728801083423","op":"play"}
+2021-07-15 19:08:49.403  INFO 13812 --- [XNIO-1 I/O-11] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","op":"stop"}
+2021-07-15 19:08:59.872  INFO 13812 --- [XNIO-1 task-11] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:gachi remix"
+2021-07-15 19:09:00.669  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: gachi remix
+2021-07-15 19:10:27.949  INFO 13812 --- [XNIO-1 I/O-11] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:53675 -- CloseStatus[code=1006, reason=]
+2021-07-15 19:10:27.950  INFO 13812 --- [XNIO-1 I/O-11] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-07-15 19:15:36.935  INFO 13812 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Добро пожаловать на сервер Шизофрения!"
+2021-07-15 19:15:37.827  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Добро пожаловать на сервер Шизофрения!
+2021-07-15 19:15:38.613  INFO 13812 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:50272
+2021-07-15 19:15:38.620  INFO 13812 --- [XNIO-1 task-15] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:50272
+2021-07-15 19:15:55.561  INFO 13812 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","sessionId":"01cbb8fead0529c8015d18d8bc02993e","event":{"token":"887034225406b375","endpoint":"russia1874.discord.media:443"},"op":"voiceUpdate"}
+2021-07-15 19:16:02.977  INFO 13812 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:gachi remix"
+2021-07-15 19:16:03.980  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: gachi remix
+2021-07-15 19:16:33.371  INFO 13812 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"endTime":186000,"track":"QAAAsgIATtCu0L3QvtGB0YLRjCDQsiDRgdCw0L/QvtCz0LDRhSAoR2FjaGkgVmVyc2lvbikgfCDQk9Cw0YfQuNC80YPRh9C4INGA0LXQvNC40LrRgQAKUmF6b3IgU2hvdAAAAAAAAtaQAAtQT2IwMm1qajJ6RQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVBPYjAybWpqMnpFAAd5b3V0dWJlAAAAAAAAAAA=","noReplace":false,"startTime":0,"guildId":"757600728801083423","op":"play"}
+2021-07-15 19:20:43.398  INFO 13812 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:50272 -- CloseStatus[code=1006, reason=]
+2021-07-15 19:20:43.399  INFO 13812 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-07-15 19:27:49.296  INFO 13812 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Добро пожаловать на сервер Шизофрения!"
+2021-07-15 19:27:50.007  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Добро пожаловать на сервер Шизофрения!
+2021-07-15 19:27:50.905  INFO 13812 --- [XNIO-1 task-20] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:61573
+2021-07-15 19:27:50.910  INFO 13812 --- [XNIO-1 task-20] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:61573
+2021-07-15 19:28:41.599  INFO 13812 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:61573 -- CloseStatus[code=1006, reason=]
+2021-07-15 19:28:41.600  INFO 13812 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-07-15 19:30:08.838  INFO 13812 --- [XNIO-1 task-21] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Добро пожаловать на сервер Шизофрения!"
+2021-07-15 19:30:09.376  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Добро пожаловать на сервер Шизофрения!
+2021-07-15 19:30:10.401  INFO 13812 --- [XNIO-1 task-23] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:50941
+2021-07-15 19:30:10.407  INFO 13812 --- [XNIO-1 task-23] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:50941
+2021-07-15 19:33:13.967  INFO 13812 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"757600728801083423","sessionId":"af1f7d50da497cc03a83824a7d7aa208","event":{"token":"d4930394775976b8","endpoint":"russia1874.discord.media:443"},"op":"voiceUpdate"}
+2021-07-15 19:33:18.029  INFO 13812 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"endTime":22000,"track":"QAAAqQIARtC00L7QsdGA0L4g0L/QvtC20LDQu9C\u002B0LLQsNGC0Ywg0L3QsCDRgdC10YDQstC10YAg0YjQuNC30L7RhNGA0LXQvdC40Y8ACVNjaGVtZW1lcwAAAAAAAFXwAAt4YUxyYnB3dWNQQQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXhhTHJicHd1Y1BBAAd5b3V0dWJlAAAAAAAAAAA=","noReplace":false,"startTime":0,"guildId":"757600728801083423","op":"play"}
+2021-07-15 19:34:34.895  INFO 13812 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:gachi remix"
+2021-07-15 19:34:35.967  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: gachi remix
+2021-07-15 19:35:01.074  INFO 13812 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"endTime":125000,"track":"QAAAmAIANtCV0LPQvtGAINCo0LjQvyAtIERpb3IgKFJpZ2h0IFZlcnNpb24pIOKZgiBHYWNoaSBSZW1peAAIZW5kbGluZTsAAAAAAAHoSAALa1ZXZEE5UTlUZm8AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1rVldkQTlROVRmbwAHeW91dHViZQAAAAAAAAAA","noReplace":false,"startTime":0,"guildId":"757600728801083423","op":"play"}
+2021-07-15 19:39:19.517  INFO 13812 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:50941 -- CloseStatus[code=1006, reason=]
+2021-07-15 19:39:19.518  INFO 13812 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2021-07-15 19:39:25.915  INFO 13812 --- [XNIO-1 task-26] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:Добро пожаловать на сервер Шизофрения!"
+2021-07-15 19:39:26.539  INFO 13812 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Добро пожаловать на сервер Шизофрения!
+2021-07-15 19:39:27.507  INFO 13812 --- [XNIO-1 task-28] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58892
+2021-07-15 19:39:27.512  INFO 13812 --- [XNIO-1 task-28] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58892
+2021-07-15 19:43:31.658  INFO 13812 --- [XNIO-1 I/O-8] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58892 -- CloseStatus[code=1006, reason=]
+2021-07-15 19:43:31.659  INFO 13812 --- [XNIO-1 I/O-8] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
