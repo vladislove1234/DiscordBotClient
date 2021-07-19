@@ -42,5 +42,38 @@ namespace DiscordBot.Commands
             var embed = builder.Build();
             await Context.Channel.SendMessageAsync(null, false, embed);
         }
+        [Command("random")]
+        public async Task Random(int min, int max)
+        {
+            Random rand = new Random();
+            int value = rand.Next(min, max);
+            await ReplyAsync(value.ToString());
+        }
+        [Command("random")]
+        public async Task Random(int max)
+        {
+            Random rand = new Random();
+            int value = rand.Next(max);
+            await ReplyAsync(value.ToString());
+        }
+        [Command("coin")]
+        public async Task Coin()
+        {
+            Random rand = new Random();
+            int value = rand.Next(0, 2);
+            await ReplyAsync("Кидаю монету...");
+            await Task.Delay(1500);
+            var builder = new EmbedBuilder();
+            if (value == 1)
+            {
+                builder.WithImageUrl("https://www.ua-coins.info/images/coins/33_reverse.jpg");
+            }
+            else
+            {
+                builder.WithImageUrl("https://www.ua-coins.info/images/coins/33_obverse.jpg");
+            }
+            var embed = builder.Build();
+            await Context.Channel.SendMessageAsync(null, false, embed);
+        }
     }
 }
