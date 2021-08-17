@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C740A7C3-B87E-4673-A8AA-C4F85E54651A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscordBot/Models/Games/Tanks/TanksGame.cs">
+    <Files>
+      <File FileName="DiscordBot/Models/Games/Tanks/TanksGame.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscordBot" expanded="True">
+            <Node name="DiscordBot" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Games" expanded="True">
+                  <Node name="Tanks" expanded="True">
+                    <Node name="TanksGame.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DiscordBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

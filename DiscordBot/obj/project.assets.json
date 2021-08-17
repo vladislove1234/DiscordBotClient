@@ -3569,30 +3569,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\svato\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/vlad/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Проект\\DiscordBotClient\\DiscordBotClient\\DiscordBot\\DiscordBot.csproj",
+      "projectUniqueName": "/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/DiscordBot.csproj",
       "projectName": "DiscordBot",
-      "projectPath": "D:\\Проект\\DiscordBotClient\\DiscordBotClient\\DiscordBot\\DiscordBot.csproj",
-      "packagesPath": "C:\\Users\\svato\\.nuget\\packages\\",
-      "outputPath": "D:\\Проект\\DiscordBotClient\\DiscordBotClient\\DiscordBot\\obj\\",
+      "projectPath": "/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/DiscordBot.csproj",
+      "packagesPath": "/Users/vlad/.nuget/packages/",
+      "outputPath": "/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\svato\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/vlad/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3675,7 +3669,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
