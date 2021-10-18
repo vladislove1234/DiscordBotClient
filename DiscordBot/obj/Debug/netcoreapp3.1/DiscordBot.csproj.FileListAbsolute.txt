@@ -1,232 +1,314 @@
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.exe
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csprojAssemblyReference.cache
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfoInputs.cache
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfo.cs
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CopyComplete
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.deps.json
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.json
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.dev.json
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.pdb
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\NetEscapades.Configuration.Yaml.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\YamlDotNet.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CoreCompileInputs.cache
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.dll
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.pdb
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.genruntimeconfig.cache
-C:\Users\vladt\Source\Repos\DiscordBot\DiscordBot\bin\Debug\netcoreapp3.1\Victoria.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.exe
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.deps.json
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.json
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.dev.json
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.pdb
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\NetEscapades.Configuration.Yaml.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\Victoria.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\bin\Debug\netcoreapp3.1\YamlDotNet.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csprojAssemblyReference.cache
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfoInputs.cache
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfo.cs
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CoreCompileInputs.cache
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CopyComplete
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.dll
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.pdb
-C:\Users\vladt\Source\Repos\DiscordBot – копія\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.genruntimeconfig.cache
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.exe
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.deps.json
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.json
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.dev.json
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.pdb
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\NetEscapades.Configuration.Yaml.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Victoria.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\YamlDotNet.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csprojAssemblyReference.cache
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfoInputs.cache
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfo.cs
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CopyComplete
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.pdb
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.genruntimeconfig.cache
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Addons.Hosting.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CoreCompileInputs.cache
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\EntityFramework.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.CodeDom.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\vladt\Source\Repos\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.exe
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.deps.json
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.json
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.runtimeconfig.dev.json
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\DiscordBot.pdb
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Addons.Hosting.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\EntityFramework.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\NetEscapades.Configuration.Yaml.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.CodeDom.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\Victoria.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\YamlDotNet.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.AssemblyReference.cache
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfoInputs.cache
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.AssemblyInfo.cs
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CoreCompileInputs.cache
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.csproj.CopyComplete
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.dll
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.pdb
-E:\DiscordBot\DiscordBot – 5.1.9\DiscordBot\obj\Debug\netcoreapp3.1\DiscordBot.genruntimeconfig.cache
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.exe
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csprojAssemblyReference.cache
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfoInputs.cache
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfo.cs
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Commands.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Core.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Rest.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Webhook.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.WebSocket.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/System.Interactive.Async.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/System.Linq.Async.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CopyComplete
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.deps.json
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.json
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.dev.json
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.pdb
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/NetEscapades.Configuration.Yaml.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CoreCompileInputs.cache
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.dll
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.pdb
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.genruntimeconfig.cache
+C:/Users/vladt/Source/Repos/DiscordBot/DiscordBot/bin/Debug/netcoreapp3.1/Victoria.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.exe
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.deps.json
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.json
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.dev.json
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.pdb
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Commands.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Core.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Rest.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Webhook.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.WebSocket.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/NetEscapades.Configuration.Yaml.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/System.Interactive.Async.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/System.Linq.Async.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/Victoria.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csprojAssemblyReference.cache
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfoInputs.cache
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfo.cs
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CoreCompileInputs.cache
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CopyComplete
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.dll
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.pdb
+C:/Users/vladt/Source/Repos/DiscordBot – копія/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.genruntimeconfig.cache
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.exe
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.deps.json
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.json
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.dev.json
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.pdb
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Commands.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Core.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Rest.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Webhook.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.WebSocket.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/NetEscapades.Configuration.Yaml.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Interactive.Async.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Linq.Async.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Victoria.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csprojAssemblyReference.cache
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfoInputs.cache
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfo.cs
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CopyComplete
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.pdb
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.genruntimeconfig.cache
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Diagnostics.EventLog.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Addons.Hosting.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CoreCompileInputs.cache
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/EntityFramework.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/vladt/Source/Repos/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.exe
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.deps.json
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.json
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.dev.json
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.pdb
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Addons.Hosting.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Commands.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Core.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Rest.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Webhook.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.WebSocket.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/EntityFramework.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.CommandLine.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.UserSecrets.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Debug.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.EventLog.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.EventSource.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/NetEscapades.Configuration.Yaml.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Diagnostics.EventLog.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Interactive.Async.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Linq.Async.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/Victoria.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.AssemblyReference.cache
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfoInputs.cache
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfo.cs
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CoreCompileInputs.cache
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CopyComplete
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.dll
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.pdb
+E:/DiscordBot/DiscordBot – 5.1.9/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.genruntimeconfig.cache
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.deps.json
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.json
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.runtimeconfig.dev.json
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/DiscordBot.pdb
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Addons.Hosting.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Commands.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Core.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Rest.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.Webhook.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Discord.Net.WebSocket.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/EntityFramework.SqlServer.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/EntityFramework.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Debug.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.EventLog.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.EventSource.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/NetEscapades.Configuration.Yaml.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Diagnostics.EventLog.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Interactive.Async.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Linq.Async.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/Victoria.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfoInputs.cache
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.AssemblyInfo.cs
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CoreCompileInputs.cache
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.CopyComplete
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.dll
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.pdb
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.genruntimeconfig.cache
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.csproj.AssemblyReference.cache
+/Users/vlad/Documents/Projects/DiscordBotClient/DiscordBot/obj/Debug/netcoreapp3.1/DiscordBot.GeneratedMSBuildEditorConfig.editorconfig

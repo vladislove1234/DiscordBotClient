@@ -25,7 +25,7 @@ namespace DiscordBot.Services
             _lavaNode = lavaNode;
             _lavaNode.OnTrackEnded += OnTrackFinished;
             _client.UserVoiceStateUpdated += OnUserEntered;
-            SetStartMusic();
+            //SetStartMusic();
         }
         public async void SetStartMusic()
         {

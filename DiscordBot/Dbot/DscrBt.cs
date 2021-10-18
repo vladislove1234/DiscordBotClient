@@ -38,7 +38,7 @@ namespace DiscordBot.Dbot{
                             AlwaysDownloadUsers = true,
                             MessageCacheSize = 200,
                         };
-                        config.Token = "NzY5MDg0Njg5MDI0OTQyMDgw.X5J37g.9xCm_6yOaQnaUXf_TyMbQpIokH" + "o";//Поміняти
+                        config.Token = "NzY5MDg0Njg5MDI0OTQyMDgw.X5J37g.sojbzdni8zkcLJsSzLOpaTElZDk";//Поміняти
                     })
                     .UseCommandService((context, config) =>
                     {

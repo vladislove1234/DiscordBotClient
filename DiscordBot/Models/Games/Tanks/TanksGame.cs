@@ -7,12 +7,14 @@ using Discord.WebSocket;
 using DiscordBot.Models.Entities;
 using DiscordBot.Models.Games.Abstractions;
 using DiscordBot.Models.Games.Enums;
+using DiscordBot.Models.Games.Tanks.Fields;
 using Game = DiscordBot.Models.Games.Abstractions.Game;
 
 namespace DiscordBot.Models.Games.Tanks
 {
     public class TanksGame : Game
     {
+        private List<string> emojiesForPlayers; 
         private const int _waitingTime = 10;
         private int _waitingTimer;
         private int _enterMessageID;
@@ -21,12 +23,29 @@ namespace DiscordBot.Models.Games.Tanks
         private IUserMessage _gameMessage;
         private IMessage _enterMessage;
         private IMessage _moveMessage;
+        private IUserMessage _scoreMessage;
+        private List<Bullet> _bullets;
+        private static string[,] map1 = new string[10, 10]
+        {
+            { "x","x","x","x","x","x","x","x","x","x"},
+            { "x",".",".",".",".",".","w","w","w","w"},
+            { "x",".","x",".","x","x","x","x","x","x"},
+            { "x",".",".",".",".",".",".",".",".","x"},
+            { "x",".",".",".",".",".",".",".",".","x"},
+            { "x",".",".",".",".",".",".",".",".","x"},
+            { "x",".",".",".",".",".",".",".",".","x"},
+            { "x",".",".",".",".",".",".",".",".","x"},
+            { "x",".",".",".",".","w","w","w",".","x"},
+            { "x","x","x","x","x","x","x","x","x","x"}
+        };
+        private GameField Field = new GameField(map1,10,10);
         public TanksGame(DiscordSocketClient client ,ITextChannel channel, IUser startUser) : base(client,channel, startUser)
         {
-            _players = new List<Player>();
-            _players.Add(new Player(startUser));
+            _players = Field.Players;
+            _players.Add(new Player(startUser) { Position = GeneratePosition()});
             State = GameState.WaitForPlayers;
             _waitingTimer = _waitingTime;
+            _bullets = new List<Bullet>();
         }
         protected override async Task Start()
         {
@@ -38,10 +57,22 @@ namespace DiscordBot.Models.Games.Tanks
             foreach (var player in users)
             {
                 if(!player.IsBot)
-                _players.Add(new Player(player));
+                _players.Add(new Player(player) {Position = GeneratePosition()});
             }
-            _gameMessage = await MainChannel.SendMessageAsync("Game", false, GenerateField());
+            _gameMessage = await MainChannel.SendMessageAsync(GenerateField());
+            _scoreMessage = await MainChannel.SendMessageAsync(GenetrateLeaderboard());
         }
+
+        private Position GeneratePosition()
+        {
+            var rand = new Random();
+            var spawnpos = new Position();
+            while(!Field.IsMovable(spawnpos))
+                spawnpos = new Position(rand.Next(0, Field.X), rand.Next(0, Field.Y));
+
+            return spawnpos;
+        }
+
         protected override async Task OnMessageRecieved(SocketMessage arg)
         {
             var player = _players.Where(x => x.User.Username == arg.Author.Username).FirstOrDefault();
@@ -49,22 +80,56 @@ namespace DiscordBot.Models.Games.Tanks
             {
                 if (player.HasMove)
                 {
-                    switch (arg.Content)
+                    var pos = player.Position;
+                    switch (arg.Content.ToCharArray()[0].ToString())
                     {
-                        case "w":
-                            player.Position.Y -= 1;
-                            break;
-                        case "s":
-                            player.Position.Y += 1;
+                        case "a":
+                            if (Field.IsMovable(new Position(player.Position.X, player.Position.Y - 1)))
+                            {
+                                player.Position.Y -= 1;
+                                pos.Y -= 2;
+                                player.vector = VectorOfMove.Left;
+                                player.HasMove = false;
+                            }
                             break;
                         case "d":
-                            player.Position.X += 1;
+                            if (Field.IsMovable(new Position(player.Position.X, player.Position.Y + 1)))
+                            {
+                                player.Position.Y += 1;
+                                pos.Y += 2;
+                                player.vector = VectorOfMove.Right;
+                                player.HasMove = false;
+                            }
                             break;
-                        case "a":
-                            player.Position.X -= 1;
+                        case "s":
+                            if (Field.IsMovable(new Position(player.Position.X + 1, player.Position.Y)))
+                            {
+                                player.Position.X += 1;
+                                pos.X += 2;
+                                player.vector = VectorOfMove.Down;
+                                player.HasMove = false;
+                            }
+                            break;
+                        case "w":
+                            if (Field.IsMovable(new Position(player.Position.X - 1, player.Position.Y)))
+                            {
+                                player.Position.X -= 1;
+                                pos.X -= 2;
+                                player.vector = VectorOfMove.Up;
+                                player.HasMove = false;
+                            }
                             break;
                     }
-                    player.HasMove = false;
+                    if (arg.Content.Contains("f"))
+                    {
+                        if (player.ShootPeriod <= 0)
+                        {
+                            var bullet = new Bullet(pos, player.vector, player);
+                            _bullets.Add(bullet);
+                            if (pos.X == player.Position.X && pos.Y == player.Position.Y)
+                                bullet.Move();
+                        }
+                    }
                 }
                 await arg.DeleteAsync();
             }
@@ -72,29 +137,91 @@ namespace DiscordBot.Models.Games.Tanks
         protected override async Task Update()
         {
             _gameMessage = (IUserMessage)await MainChannel.GetMessageAsync(_gameMessage.Id);
-            await _gameMessage.ModifyAsync(x => x.Embed = GenerateField());
-            _players.ForEach(x => x.HasMove = true);
+            await _gameMessage.ModifyAsync(x => x.Content = GenerateField());
+            _players.ForEach(x => { x.HasMove = true; if (x.ShootPeriod > 0) x.ShootPeriod--; });
+            _bullets.ForEach(x => x.Move());
+            _bullets.ForEach(x => { if (x.Position.X > Field.X && x.Position.Y > Field.Y) _bullets.Remove(x); });
+            if(_players.Count <= 1)
+            {
+                State = GameState.End;
+            }
         }
-        private Embed GenerateField()
+        protected override async Task End()
         {
-            var builder = new EmbedBuilder();
+            var bestplayer = _players[0];
+            foreach(var p in _players)
+            {
+                if (bestplayer.Score < p.Score)
+                    bestplayer = p;
+            }
+            _gameMessage = (IUserMessage)await MainChannel.GetMessageAsync(_gameMessage.Id);
+            await _gameMessage.ModifyAsync(x => x.Content = $":medal: {bestplayer.User.Username}");
+        }
+        private string GenerateField()
+        {
+            //var builder = new EmbedBuilder();
             string field = string.Empty;
             var rand = new Random();
-            for(int x = 0; x < _fieldWidth; x++)
+            for(int x = 0; x < Field.X; x++)
             {
-                field = string.Empty;
-                for(int y = 0; y < _fieldWidth; y++)
+                for(int y = 0; y < Field.Y; y++)
                 {
-                    var p = _players.Where(p => p.Position.X == x && p.Position.Y == y).FirstOrDefault();
+                    var p = _players.Where(p => p.Position.X == x && p.Position.Y == y && !p.IsDead).FirstOrDefault();
+                    var b = _bullets.Where(p => p.Position.X == x && p.Position.Y == y).FirstOrDefault();
                     if (p != null)
-                        field += p.User.Username.ToArray()[0].ToString();
+                    {
+                        if (!p.IsDead)
+                        {
+                            if (b != null)
+                            {
+                                p.Kill();
+                                b.Parent.AddScore(100);
+                                _bullets.Remove(b);
+                                field += ":boom:";
+                                Task.Run(async () => { var mes = (IUserMessage)await MainChannel.GetMessageAsync(_scoreMessage.Id);
+                                    await mes.ModifyAsync(x => x.Content = GenetrateLeaderboard());
+                                });
+                                if (_players.Where(x => !x.IsDead).Count() <= 1)
+                                    State = GameState.End;
+                            }
+                            else
+                            {
+                                field += p.Emoji;
+                            }
+                        }
+                    }
                     else
-                        field += Emojies.GetNumberFromInt(rand.Next(1,5));
+                    {
+                        if (b != null)
+                        {
+                            if (!Field.IsShootale(b.Position))
+                            {
+                                _bullets.Remove(b);
+                                field += Field.CurrentField[x, y].Element;
+                            }
+                            else
+                                field += ":white_circle:";
+                        }
+                        else
+                        {
+                            field += Field.CurrentField[x,y].Element;
+                        }
+                    }
                 }
-                builder.AddField(".", field);
+                field += "\n";
             }
-            var build = builder.Build();
-            return build;
+            //var build = builder.Build();
+            return field;
+        }
+        private string GenetrateLeaderboard()
+        {
+            string ret = "";
+            ret += "Players: \n";
+            for(int i = 0; i < _players.Count; i++)
+            {
+                ret += $"{i + 1}.{ _players[i].Emoji} {_players[i].User.Username}  Score: {_players[i].Score} \n";
+            }
+            return ret;
         }
     }
 }

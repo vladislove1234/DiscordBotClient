@@ -1,20 +1,40 @@
 ﻿<Properties StartupConfiguration="{C740A7C3-B87E-4673-A8AA-C4F85E54651A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="DiscordBot/Models/Games/Tanks/TanksGame.cs">
     <Files>
-      <File FileName="DiscordBot/Models/Games/Tanks/TanksGame.cs" Line="1" Column="1" />
+      <File FileName="DiscordBot/Models/Games/Tanks/TanksGame.cs" Line="70" Column="32" />
+      <File FileName="DiscordBot/Models/Games/Tanks/Player.cs" />
+      <File FileName="DiscordBot/Models/Games/Tanks/Bullet.cs" />
+      <File FileName="DiscordBot/Models/Games/Tanks/GameField.cs" />
+      <File FileName="DiscordBot/Services/AudioService.cs" />
+      <File FileName="DiscordBot/Dbot/DscrBt.cs" />
+      <File FileName="DiscordBot/Models/Games/TwentyOne/TwentyOneGame.cs" />
+      <File FileName="DiscordBot/Models/Games/TwentyOne/Player.cs" />
+      <File FileName="DiscordBot/Models/Games/TwentyOne/Card.cs" />
+      <File FileName="DiscordBot/Models/Games/TwentyOne/CardEnums/Suit.cs" />
+      <File FileName="DiscordBot/Models/Games/TwentyOne/CardEnums/Color.cs" />
+      <File FileName="DiscordBot/Models/Games/TwentyOne/Deck.cs" />
+      <File FileName="DiscordBot/Commands/TanksGameCommands.cs" />
+      <File FileName="DiscordBot/Models/Games/Tanks/Field.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DiscordBot" expanded="True">
             <Node name="DiscordBot" expanded="True">
+              <Node name="Commands" expanded="True" />
+              <Node name="Dbot" expanded="True" />
               <Node name="Models" expanded="True">
                 <Node name="Games" expanded="True">
+                  <Node name="Abstractions" expanded="True" />
                   <Node name="Tanks" expanded="True">
                     <Node name="TanksGame.cs" selected="True" />
                   </Node>
+                  <Node name="TwentyOne" expanded="True">
+                    <Node name="CardEnums" expanded="True" />
+                  </Node>
                 </Node>
               </Node>
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>

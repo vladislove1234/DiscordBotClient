@@ -20,4 +20,12 @@
     <PackageReference Include="Victoria" Version="5.1.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Models\Games\TwentyOne\" />
+    <None Remove="Models\Games\TwentyOne\CardEnums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\Games\TwentyOne\" />
+    <Folder Include="Models\Games\TwentyOne\CardEnums\" />
+  </ItemGroup>
 </Project>

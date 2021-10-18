@@ -32,7 +32,7 @@ namespace DiscordBot.Models.Games.Abstractions
         public async Task Execute(float Period)
         {
             await Start();
-            while(State != GameState.Play)
+            while(State != GameState.End)
             {
                 await Task.Delay((int)(Period * 1000));
                 await Update();
